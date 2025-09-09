@@ -16,7 +16,7 @@ Gradle Project Version Plugin, Support Quick Update Version And Show Project Ver
 
 <hr/>
 
-<p style="font-size: 16px; font-weight: 425; color:#f96a6a;">
+<p style="font-size: 20px; font-weight: bold; color:red;">
 欢迎大家加入QQ群，不仅能在第一时间获取最新插件资源，还能一起交流学习！
 </p>
 
@@ -28,8 +28,7 @@ Gradle Project Version Plugin, Support Quick Update Version And Show Project Ver
 
 ## 前言
 
-工欲善其事必先利其器！想必大家在使用maven时会经常碰到项目版本升级和依赖版本升级的问题吧。针对占用大家大量时间以及大家经常使用遇到的痛点，这款插件诞生了！！！
-轻松帮您解决搜索依赖困扰和升级版本困扰！ 轻便快捷是初心，势必为节省您的大量时间和心力而前行！让更多的时间和价值留在更重要的地方！！！<br/>
+工欲善其事必先利其器！ 轻便快捷是初心，势必为节省您的大量时间和心力而前行！让更多的时间和价值留在更重要的地方！！！<br/>
 <b>希望它能成为一款真正有价值的插件，避免大家花费更多的精力和心力在这些繁琐的流程中。当然这也需要您的支持，以便我们提供更好的服务和迭代，利他和利己不是可以共存的嘛~ 让我们一起走得更远！</b><br/>
 
 
