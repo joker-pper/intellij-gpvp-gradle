@@ -34,7 +34,7 @@ Gradle Project Version Plugin, Support Quick Update Version And Show Project Ver
 
 ## 更新计划
 
-版本号: <span style="color: red">1.1.x</span>
+版本号: <span style="color: red">1.2.x</span>
 
 预计发布时间: <span style="color: red">???</span>
 
@@ -211,6 +211,9 @@ search.user-repository-search-result.snapshots-cache-period=1
 
 # 是否启用gradle自动加载nexus仓库url，未配置时默认true
 #enable-gradle-auto-load-nexus-repository-urls=true
+
+# 是否启用更新版本的行尾注释处理，未配置时默认true
+#enable-update-version-end-of-line-comment-mark-deal=true
 
 ```
 
