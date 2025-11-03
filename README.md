@@ -51,7 +51,7 @@ QQ交流群: [点击链接加入群聊【Gradle With Me插件交流群】](https
 ## 优惠活动
 
 <p style="font-size: 18px; font-weight: bold;color: red;">
- 🔥限时激活优惠（最低可至每月不到¥4）
+ 🔥限时激活优惠（最低可至每月不到¥6）
 </p>
 
 我们提供了以下激活授权规格，您有需要可在微信公众号 <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a>（<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">点击查看二维码</a>）菜单 <span textstyle="" style="color: rgb(255, 76, 0)">GPVP</span>&nbsp;&gt;&nbsp;<span textstyle="" style="color: rgb(255, 76, 0)">激活链接</span> 查看详情，也可随时进行留言咨询。
