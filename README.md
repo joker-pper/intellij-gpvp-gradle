@@ -30,6 +30,7 @@ QQ交流群: [点击链接加入群聊【Gradle With Me插件交流群】](https
 
 微信交流群: 在微信公众号 <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a>（<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">点击查看二维码</a>）直接留言<span textstyle="" style="color: rgb(255, 76, 0)">“微信群”</span>即可获取
 
+<p style="font-size: 15px; font-weight: 500; color:red;">福利：加群可申请解锁最大试用次数，关注公众号可申请解锁最大试用时间段</p>
 
 <hr/>
 
