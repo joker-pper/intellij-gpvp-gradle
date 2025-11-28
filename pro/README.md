@@ -2,8 +2,8 @@
 
 [![jetbrains_pro_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/29099-gradle-with-me-pro-gpvp-?label=Gradle%20With%20Me%20Pro%20downloads&labelColor=ff4c41&color=green)](https://plugins.jetbrains.com/plugin/28419-gradle-with-me-gpvp-)
 [<img alt="lang-中文" src="https://img.shields.io/badge/lang-中文-success"/>](./PRO_README.md)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222?logo=github&logoColor=white)](https://joker-pper.github.io/intellij-gpvp-gradle/PRO_README.md)
-[<img alt="LICENSE" src="https://img.shields.io/badge/LICENSE-blue"/>](docs/LICENSE_Page.md)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222?logo=github&logoColor=white)](https://joker-pper.github.io/intellij-gpvp-gradle/pro)
+[<img alt="LICENSE" src="https://img.shields.io/badge/LICENSE-blue"/>](../docs/LICENSE_Page.md)
 
 <div align="center" style="text-align: center;">
     <img alt="visitors" style="max-width: 100%;" src="https://count.getloli.com/get/@joker-pper.intellij-gpvp-gradle?theme=original-new" />
@@ -40,7 +40,7 @@ QQ交流群: [点击链接加入群聊【Gradle With Me插件交流群】](https
 
 Tools > Gradle Project Version
 
-![how-to-find-plugin-menu](picture/how-to-find-plugin-menu.png)
+![how-to-find-plugin-menu](../picture/how-to-find-plugin-menu.png)
 
 ## 特性
 
@@ -69,7 +69,7 @@ Tools > Gradle Project Version
 
 支持英文、中文、简体中文（中国）及中文（台湾）
 
-<span style="color: red">注：</span>如要了解更多，[请点击这里查看特性详请](docs/FeaturesDetail.md)
+<span style="color: red">注：</span>如要了解更多，[请点击这里查看特性详请](../docs/FeaturesDetail.md)
 
 
 ## 其他
