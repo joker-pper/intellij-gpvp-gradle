@@ -1,7 +1,7 @@
 # Gradle With Me(GPVP) - Gradle Project Version Plugin
 
 [![jetbrains_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/28419-gradle-with-me-gpvp-?label=Gradle%20With%20Me%20downloads&labelColor=ff4c41&color=green)](https://plugins.jetbrains.com/plugin/28419-gradle-with-me-gpvp-)
-[![jetbrains_pro_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/29099-gradle-with-me-pro-gpvp-?label=Gradle%20With%20Me%20Pro%20downloads&labelColor=ff4c41&color=green)](https://plugins.jetbrains.com/plugin/28419-gradle-with-me-gpvp-)
+[![jetbrains_pro_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/29099-gradle-with-me-pro-gpvp-?label=Gradle%20With%20Me%20Pro%20downloads&labelColor=ff4c41&color=green)](https://plugins.jetbrains.com/plugin/29099-gradle-with-me-pro-gpvp-)
 [<img alt="lang-中文" src="https://img.shields.io/badge/lang-中文-success"/>](./README.md)
 [<img alt="lang-Pro版中文" src="https://img.shields.io/badge/lang-Pro版中文-success"/>](pro/README.md)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222?logo=github&logoColor=white)](https://joker-pper.github.io/intellij-gpvp-gradle/)
