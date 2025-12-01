@@ -134,7 +134,7 @@ Tools > Gradle Project Version
 
 ## 如何配置Nexus访问权限？
 
-[IDEA插件Gradle With Me / Gradle With Me Pro如何配置Nexus访问权限？](../docs/how-to-configure-nexus-access-permissions_zh.md)
+[IDEA插件Gradle With Me / Gradle With Me Pro如何配置Nexus访问权限？](docs/how-to-configure-nexus-access-permissions_zh.md)
 
 ## 其他
 
