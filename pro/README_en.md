@@ -35,7 +35,7 @@ WeChat communication group: On the WeChat official account <a style="color: rgb(
 
 ## Preface
 
-To do a good job, one must first sharpen their tools! Lightweight and fast is our original intention, and we will definitely move forward to save you a lot of time and effort! Let more time and value stay in more important places!!! <br/>
+<b>To do a good job, one must first sharpen their tools! Lightweight and fast is our original intention, and we will definitely move forward to save you a lot of time and effort! Let more time and value stay in more important places!!!</b><br/>
 <b>I hope it can become a truly valuable plugin, avoiding everyone from spending more energy and effort on these tedious processes. Of course, this also requires your support so that we can provide better services and iterations. Altruism and self-interest can coexist. Let's go further together! </b><br/>
 
 
@@ -76,6 +76,10 @@ Supports English, Chinese, Simplified Chinese (China), and Chinese (Taiwan)
 
 <span style="color: red">Note:</span> To learn more, [please click here for detailed features](../docs/FeaturesDetail.md)
 
+
+## How to configure Nexus access permissions?
+
+[How to configure Nexus access permissions for IDEA plugin Gradle With Me / Gradle With Me Pro?](../docs/how-to-configure-nexus-access-permissions_en.md)
 
 ## Other
 

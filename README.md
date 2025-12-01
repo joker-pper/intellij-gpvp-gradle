@@ -132,6 +132,9 @@ Tools > Gradle Project Version
 
 <span style="color: red">注：</span>如要了解更多，[请点击这里查看特性详请](docs/FeaturesDetail.md)
 
+## 如何配置Nexus访问权限？
+
+[IDEA插件Gradle With Me / Gradle With Me Pro如何配置Nexus访问权限？](../docs/how-to-configure-nexus-access-permissions_zh.md)
 
 ## 其他
 
