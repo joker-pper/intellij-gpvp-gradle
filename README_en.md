@@ -27,7 +27,7 @@ Gradle Project Version Plugin, Support Quick Update Version And Show Project Ver
 ## Important Notes
 
 <p style="font-size: 25px; font-weight: bold; color:red;">
-Welcome to use the Gradle With Me(GPVP). If you are a user outside Chinese Mainland, please use Gradle With Me Pro(GPVP). The quick navigation is as follows:
+Welcome to use the Gradle With Me(GPVP). If you are a user outside China Mainland, please use Gradle With Me Pro(GPVP). The quick navigation is as follows:
 </p>
 
 <hr/>
