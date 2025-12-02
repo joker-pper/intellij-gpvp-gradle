@@ -120,6 +120,9 @@ search.user-repository-search-result.snapshots-cache-period=1
 # 是否启用更新版本的行尾注释处理，未配置时默认true
 #enable-update-version-end-of-line-comment-mark-deal=true
 
+# 是否启用支持（通过键盘复制快捷键）选中多行复制（保持原有机制）及支持复制单行单列的结果值，未配置时默认false
+#enable-search-version-table-input-key-enhance-copy=true
+
 ```
 
 ### 系统内置语言

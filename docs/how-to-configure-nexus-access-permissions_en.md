@@ -66,7 +66,7 @@ There are two types of configuration files supported. If there is no manual crea
 Example of configuration values:
     
       
-    # search nexus cache save period (Unit: minutes, value should be > 0, use default value 360 when not configured or illegal)-- 2.1.x added
+    # search nexus cache save period (Unit: minutes, value should be > 0, use default value 360 when not configured or illegal)
     search.nx.cache-save-period=1  
       
       

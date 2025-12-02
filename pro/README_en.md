@@ -123,6 +123,9 @@ search.user-repository-search-result.snapshots-cache-period=1
 # Whether to enable the handling of line ending comments in updated versions, default to true when not configured
 #enable-update-version-end-of-line-comment-mark-deal=true
 
+# Whether to enable support (Copy shortcut keys through keyboard) for selecting multi row copying (maintaining the original mechanism) and support for copying single row and single column result values. If not configured, default to false
+#enable-search-version-table-input-key-enhance-copy=true
+
 ```
 
 ### Internal System Language
