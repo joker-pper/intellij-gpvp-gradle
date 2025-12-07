@@ -13,14 +13,13 @@
     <img alt="visitors" style="max-width: 100%;" src="https://count.getloli.com/get/@joker-pper.intellij-gpvp-gradle?theme=original-new" />
 </div>
 
-Gradle项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索并支持快速生成常见项目版本的徽章.
-<br/>
-<br/>
 Gradle Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version.
 
-<p>注：若您使用的是Maven，对应的IDEA 插件为 Maven With Me</p>
+<span style="color: red; font-weight: 500;">Welcome to use the Gradle With Me(GPVP). If you are a user outside China Mainland, please use Gradle With Me Pro(GPVP). </span>
 
-<p>Note: If you are using Maven, the corresponding IDEA plugin is Maven With Me(MPVP)</p>
+<span style="color: red; font-weight: 500;">The existing PRO version -- IDEA plugin Gradle With Me Pro(GPVP) can be activated and used through JetBrains official, and activation can enjoy JetBrains official secure payment channels and invoices!</span>
+
+<p>Note: If you are using Maven, the corresponding IDEA plugin is Maven With Me(MPVP). If you are a user outside China Mainland, please use Maven With Me Pro(MPVP).</p>
 
 <hr/>
 
