@@ -1,6 +1,6 @@
-# Gradle With Me Pro(GPVP) - Gradle Project Version Plugin
+# IDEA插件Gradle With Me Pro蹬蹬蹬登场啦，Gradle开发版本管理小助手！！！
 
-[![jetbrains_pro_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/29099-gradle-with-me-pro-gpvp-?label=Gradle%20With%20Me%20Pro%20downloads&labelColor=ff4c41&color=green)](https://plugins.jetbrains.com/plugin/29099-gradle-with-me-pro-gpvp-)
+[![jetbrains_pro_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/29099-gradle-with-me-pro-gpvp-?label=%E2%AD%90%20Gradle%20With%20Me%20Pro%20downloads&labelColor=ff4c41&color=green)](https://plugins.jetbrains.com/plugin/29099-gradle-with-me-pro-gpvp-)
 [<img alt="lang-中文" src="https://img.shields.io/badge/lang-中文-success"/>](README.md)
 [<img alt="lang-English" src="https://img.shields.io/badge/lang-English-success"/>](README_en.md)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222?logo=github&logoColor=white)](https://joker-pper.github.io/intellij-gpvp-gradle/pro)
@@ -10,14 +10,11 @@
     <img alt="visitors" style="max-width: 100%;" src="https://count.getloli.com/get/@joker-pper.intellij-gpvp-gradle?theme=original-new" />
 </div>
 
-Gradle项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索并支持快速生成常见项目版本的徽章.
-<br/>
-<br/>
-Gradle Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version.
 
-<p>注：若您使用的是Maven，对应的IDEA 插件为 Maven With Me Pro(MPVP)</p>
+## 💡前言
 
-<p>Note: If you are using Maven, the corresponding IDEA plugin is Maven With Me Pro(MPVP)</p>
+<b>工欲善其事必先利其器！ 轻便快捷是初心，势必为节省您的大量时间和心力而前行！让更多的时间和价值留在更重要的地方！！！</b><br/><br/>
+<b>希望它能成为一款真正有价值的插件，避免大家花费更多的精力和心力在这些繁琐的流程中。当然这也需要您的支持，以便我们提供更好的服务和迭代，利他和利己不是可以共存的嘛~ 让我们一起走得更远！</b><br/>
 
 <hr/>
 
@@ -29,23 +26,22 @@ QQ交流群: [点击链接加入群聊【Gradle With Me插件交流群】](https
 
 微信交流群: 在微信公众号 <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a>（<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">点击查看二维码</a>）直接留言<span textstyle="" style="color: rgb(255, 76, 0)">“微信群”</span>即可获取
 
+
+<br/>
 <hr/>
 
+## 🌟IDEA 插件Gradle With Me Pro(GPVP) 是什么？
 
-## 前言
+<p>Gradle Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version.</p>
 
-工欲善其事必先利其器！ 轻便快捷是初心，势必为节省您的大量时间和心力而前行！让更多的时间和价值留在更重要的地方！！！<br/>
-<b>希望它能成为一款真正有价值的插件，避免大家花费更多的精力和心力在这些繁琐的流程中。当然这也需要您的支持，以便我们提供更好的服务和迭代，利他和利己不是可以共存的嘛~ 让我们一起走得更远！</b><br/>
+<p>Note: If you are using Maven, the corresponding IDEA plugin is Maven With Me Pro(MPVP)</p>
+
+<p>Gradle项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索并支持快速生成常见项目版本的徽章。</p>
+
+<p>注：若您使用的是Maven，对应的IDEA 插件为 Maven With Me Pro(MPVP)。</p>
 
 
-
-## 如何找到操作菜单？
-
-Tools > Gradle Project Version
-
-![how-to-find-plugin-menu](../picture/how-to-find-plugin-menu.png)
-
-## 特性
+## ✨核心功能
 
 ### 支持gradle项目版本快速升级/回退
 
@@ -67,16 +63,17 @@ Tools > Gradle Project Version
 
 支持快速生成常见Maven/Gradle项目版本的徽章 (依赖<span style="color: rgb(255, 76, 65);">shields.io</span>能力)。<span style="color: rgb(255, 76, 65);">提供常见参数使用，可快速自定义文本及颜色。</span>提供支持<span style="color: rgb(255, 76, 65);">groupId+artifactId快速输入能力</span>(如Maven pom配置或Gradle依赖配置粘贴即可)，并<span style="color: rgb(255, 76, 65);">内置常用徽章的跳转链接</span>(如发布到中央仓库release jar的版本链接)及<span style="color: rgb(255, 76, 65);">自定义跳转链接</span>，为您徽章的生成<span style="color: rgb(255, 76, 65);">提供一定的便捷</span>~
 
-
-### 国际化支持
-
-支持英文、中文、简体中文（中国）及中文（台湾）
-
 <span style="color: red">注：</span>如要了解更多，[请点击这里查看特性详请](../docs/FeaturesDetail.md)
+
+## 如何找到操作菜单？
+
+Tools > Gradle Project Version
+
+![how-to-find-plugin-menu](../picture/how-to-find-plugin-menu.png)
 
 ## 如何配置Nexus访问权限？
 
-[IDEA插件Gradle With Me / Gradle With Me Pro如何配置Nexus访问权限？](../docs/how-to-configure-nexus-access-permissions_zh.md)
+[IDEA插件Gradle With Me Pro如何配置Nexus访问权限？](../docs/how-to-configure-nexus-access-permissions_zh.md)
 
 ## 其他
 
