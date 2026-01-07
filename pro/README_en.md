@@ -34,7 +34,7 @@ WeChat communication group: On the WeChat official account <a style="color: rgb(
 
 ## 🌟What is IDEA plugin Gradle With Me Pro(GPVP) ?
 
-<p>Gradle Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version.</p>
+<p>Gradle Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version And supporting synchronization of SDK and Gradle build and other configurations.</p>
 
 <p>Note: If you are using Maven, the corresponding IDEA plugin is Maven With Me Pro(MPVP)</p>
 
@@ -61,6 +61,14 @@ Provide convenient search capabilities (Maven pom configuration or Gradle depend
 ### Support Generate badges for Maven/Gradle project versions
 
 Support for quickly generating badges for common Maven/Gradle project versions (relying on <span style="color: rgb(255, 76, 65);">shields. io</span> capability).  <span style="color: rgb(255, 76, 65);">Provides common parameter usage for quickly customizing text and colors. </span>Provide support for <span style="color: rgb(255, 76, 65);">groupId+artifactId quick input capability</span>(such as Maven pom configuration or Gradle dependency configuration pasting), and <span style="color: rgb(255, 76, 65);">built-in jump links for commonly used badges</span>(such as version links published to the central repository release jar) and <span style="color: rgb(255, 76, 65);">custom jump links</span> to generate badges for you <span style="color: rgb(255, 76, 65);">Provide certain convenience</span>~
+
+### Support Project Settings Synchronous
+
+Automatically synchronize JDK, language level specifications, Gradle Build, and other configuration features! Whether it's individual development or team collaboration, one person configuration, shared by all! (Need to submit configuration to remote repository)<br/>
+
+Automatically recognize and switch to the corresponding JDK version and Gradle Build configuration, whether in project opening, Git clone, Git branch switching, Git rollback, or other scenarios!!! Further unify the team SDK specifications and save the tedious steps and time required for teams or individuals to manually configure IDE environments multiple times!!!  <br/>
+
+Other instructions: The '~' in JDK Home Path represents the user's home directory, which is used to dynamically identify a unified path under different usernames.
 
 
 <span style="color: red">Note:</span> To learn more, [please click here for detailed features](../docs/FeaturesDetail.md)

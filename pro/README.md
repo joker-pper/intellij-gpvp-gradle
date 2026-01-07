@@ -32,11 +32,11 @@ QQ交流群: [点击链接加入群聊【Gradle With Me插件交流群】](https
 
 ## 🌟IDEA 插件Gradle With Me Pro(GPVP) 是什么？
 
-<p>Gradle Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version.</p>
+<p>Gradle Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version And supporting synchronization of SDK and Gradle build and other configurations.</p>
 
 <p>Note: If you are using Maven, the corresponding IDEA plugin is Maven With Me Pro(MPVP)</p>
 
-<p>Gradle项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索并支持快速生成常见项目版本的徽章。</p>
+<p>Gradle项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索并支持快速生成常见项目版本的徽章及SDK相关配置、Gradle构建配置同步等功能。</p>
 
 <p>注：若您使用的是Maven，对应的IDEA 插件为 Maven With Me Pro(MPVP)。</p>
 
@@ -62,6 +62,14 @@ QQ交流群: [点击链接加入群聊【Gradle With Me插件交流群】](https
 ### 支持maven/gradle项目版本徽章生成
 
 支持快速生成常见Maven/Gradle项目版本的徽章 (依赖<span style="color: rgb(255, 76, 65);">shields.io</span>能力)。<span style="color: rgb(255, 76, 65);">提供常见参数使用，可快速自定义文本及颜色。</span>提供支持<span style="color: rgb(255, 76, 65);">groupId+artifactId快速输入能力</span>(如Maven pom配置或Gradle依赖配置粘贴即可)，并<span style="color: rgb(255, 76, 65);">内置常用徽章的跳转链接</span>(如发布到中央仓库release jar的版本链接)及<span style="color: rgb(255, 76, 65);">自定义跳转链接</span>，为您徽章的生成<span style="color: rgb(255, 76, 65);">提供一定的便捷</span>~
+
+### 支持项目配置同步功能
+
+自动同步JDK、语言level规范、Gradle Build等配置功能！无论是个人开发还是团队协作，一人配置，全员共享！(需要提交配置到远程仓库) <br/>
+
+无论是在项目打开，还是Git clone、Git分支切换、Git还原等场景下，自动识别切换到对应的JDK版本及Gradle Build等配置！！！进一步统一团队SDK规范，并节省团队或个人需多次手动配置IDE环境等繁琐步骤及时间！！！ <br/>
+
+其他说明：JDK Home Path中的 ~ 代表为用户主目录，用于动态识别出不同用户名下的统一路径。
 
 <span style="color: red">注：</span>如要了解更多，[请点击这里查看特性详请](../docs/FeaturesDetail.md)
 
