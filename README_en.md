@@ -13,7 +13,7 @@
     <img alt="visitors" style="max-width: 100%;" src="https://count.getloli.com/get/@joker-pper.intellij-gpvp-gradle?theme=original-new" />
 </div>
 
-Gradle Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version.
+<p>Gradle Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version And supporting synchronization of SDK and Gradle build and other configurations.</p>
 
 <span style="color: red; font-weight: 500;">Welcome to use the Gradle With Me(GPVP). If you are a user outside China Mainland, please use Gradle With Me Pro(GPVP). </span>
 

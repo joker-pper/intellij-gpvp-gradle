@@ -65,11 +65,12 @@ QQ交流群: [点击链接加入群聊【Gradle With Me插件交流群】](https
 
 ### 支持项目配置同步功能
 
-自动同步JDK、语言level规范、Gradle Build等配置功能！无论是个人开发还是团队协作，一人配置，全员共享！(需要提交配置到远程仓库) <br/>
+自动同步<span style="color: rgb(255, 76, 65);">JDK</span>、语言level规范、<span style="color: rgb(255, 76, 65);">Gradle Build</span>等配置功能！无论是个人开发还是团队协作，<span style="color: rgb(255, 76, 65);">一人配置，全员共享！</span>(需要提交配置到远程仓库) <br/>
 
-无论是在项目打开，还是Git clone、Git分支切换、Git还原等场景下，自动识别切换到对应的JDK版本及Gradle Build等配置！！！进一步统一团队SDK规范，并节省团队或个人需多次手动配置IDE环境等繁琐步骤及时间！！！ <br/>
+无论是在<span style="color: rgb(255, 76, 65);">项目打开</span>，还是<span style="color: rgb(255, 76, 65);">Git clone、Git分支切换、Git还原等场景</span>下，<span style="color: rgb(255, 76, 65);">自动识别切换</span>到对应的<span style="color: rgb(255, 76, 65);">JDK版本</span>及<span style="color: rgb(255, 76, 65);">Gradle Build</span>等配置！！！进一步<span style="color: rgb(255, 76, 65);">统一团队SDK规范</span>，并节省团队或个人需多次手动配置IDE环境等繁琐步骤及时间！！！ <br/>
 
 其他说明：JDK Home Path中的 ~ 代表为用户主目录，用于动态识别出不同用户名下的统一路径。
+
 
 <span style="color: red">注：</span>如要了解更多，[请点击这里查看特性详请](../docs/FeaturesDetail.md)
 
