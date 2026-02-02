@@ -50,7 +50,7 @@ QQ交流群: [点击链接加入群聊【Gradle With Me插件交流群】](https
 
 ## 更新计划
 
-版本号: <span style="color: red">1.3.x</span>
+版本号: <span style="color: red">1.4.x</span>
 
 预计发布时间: <span style="color: red">???</span>
 
