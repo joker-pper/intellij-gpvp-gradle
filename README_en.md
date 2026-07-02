@@ -17,7 +17,7 @@
 
 <span style="color: red; font-weight: 500;">Welcome to use the Gradle With Me(GPVP). If you are a user outside China Mainland, please use Gradle With Me Pro(GPVP). </span>
 
-<span style="color: red; font-weight: 500;">The existing PRO version -- IDEA plugin Gradle With Me Pro(GPVP) can be activated and used through JetBrains official, and activation can enjoy JetBrains official secure payment channels and invoices!</span>
+<span style="color: red; font-weight: 500;">The existing PRO version -- IDEA plugin Gradle With Me Pro(GPVP) can be activated and used through JetBrains official, and activation can enjoy JetBrains official secure payment channels and invoices! You can also enjoy a 14-day free trial!</span>
 
 <p>Note: If you are using Maven, the corresponding IDEA plugin is Maven With Me(MPVP). If you are a user outside China Mainland, please use Maven With Me Pro(MPVP).</p>
 

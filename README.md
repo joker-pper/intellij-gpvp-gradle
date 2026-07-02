@@ -17,7 +17,7 @@
 
 <span style="color: red; font-weight: 500;">欢迎使用 Gradle With Me(GPVP)。 如果您是中国大陆以外的用户，请使用 Gradle With Me Pro(GPVP)。</span>
 
-<span style="color: red; font-weight: 500;">现有PRO版 -- IDEA 插件Gradle With Me Pro(GPVP)可通过 JetBrains 官方激活使用，激活可享受 JetBrains 官方安全支付渠道及发票！</span>
+<span style="color: red; font-weight: 500;">现有PRO版 -- IDEA 插件Gradle With Me Pro(GPVP)可通过 JetBrains 官方激活使用，激活可享受 JetBrains 官方安全支付渠道及发票！您还可以享受14天的免费试用！</span>
 
 <p>注：若您使用的是Maven，对应的IDEA 插件为 Maven With Me(MPVP)。 如果您是中国大陆以外的用户，请使用 Maven With Me Pro(MPVP)。</p>
 
