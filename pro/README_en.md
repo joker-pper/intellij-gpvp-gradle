@@ -110,10 +110,10 @@ The supported configurations are as follows:
 #search.nx.cache-save-period=360
 
 # user's private nexus server release query result cache period, and 30 minutes by default when not configured (Unit: minutes, value should be > 0 and <= 360. When not configured or < 1, use default value; when value > maximum value, use default maximum value)
-search.user-repository-search-result.release-cache-period=30
+#search.user-repository-search-result.release-cache-period=30
 
 # user's private nexus server snapshots query result cache period, and 1 minutes by default when not configured（Unit: minutes, value should be > 0 and <= 360. When not configured or < 1, use default value; when value > maximum value, use default maximum value)
-search.user-repository-search-result.snapshots-cache-period=1
+#search.user-repository-search-result.snapshots-cache-period=1
 
 
 # Copy Gradle coordinates in Kotlin format, default to false if not configured
