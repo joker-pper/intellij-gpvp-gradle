@@ -23,7 +23,7 @@
 
 <hr/>
 
-## Important Notes
+## ⚠️ Important Notes
 
 <p style="font-size: 25px; font-weight: bold; color:red;">
 Welcome to use the Gradle With Me(GPVP). If you are a user outside China Mainland, please use Gradle With Me Pro(GPVP). The quick navigation is as follows:
@@ -38,7 +38,7 @@ Welcome to use the Gradle With Me(GPVP). If you are a user outside China Mainlan
 <hr/>
 
 
-## Contact Us
+## 💬 Contact Us
 
 If you have any questions or suggestions, you can do so through the following methods:
 

@@ -42,21 +42,21 @@ QQ交流群: [点击链接加入群聊【Gradle With Me插件交流群】](https
 <hr/>
 
 
-## 前言
+## 💡 前言
 
 工欲善其事必先利其器！ 轻便快捷是初心，势必为节省您的大量时间和心力而前行！让更多的时间和价值留在更重要的地方！！！<br/>
 <b>希望它能成为一款真正有价值的插件，避免大家花费更多的精力和心力在这些繁琐的流程中。当然这也需要您的支持，以便我们提供更好的服务和迭代，利他和利己不是可以共存的嘛~ 让我们一起走得更远！</b><br/>
 
 
-## 更新计划
+## 🔜 更新计划
 
-版本号: <span style="color: red">1.5.x</span>
+版本号: <span style="color: red">1.6.x</span>
 
 预计发布时间: <span style="color: red">???</span>
 
 详情: [戳这里直达](docs/Next.md)
 
-## ✨核心功能
+## ✨ 核心功能
 
 ### 支持gradle项目版本快速升级/回退
 
@@ -90,13 +90,13 @@ QQ交流群: [点击链接加入群聊【Gradle With Me插件交流群】](https
 <span style="color: red">注：</span>如要了解更多，[请点击这里查看特性详请](docs/FeaturesDetail.md)
 
 
-## 如何找到操作菜单？
+## ❓如何找到操作菜单？
 
 Tools > Gradle Project Version
 
 ![how-to-find-plugin-menu](picture/how-to-find-plugin-menu.png)
 
-## 功能对比
+## 📝 功能对比
 
 | 功能      | **未激活**                       | 试用（无授权KEY）                     | 试用（有授权KEY）    | 正常激活                 |
 |---------|---------------------------|--------------------------------|---------------|----------------------|
@@ -110,21 +110,24 @@ Tools > Gradle Project Version
 | 激活有效时间  | --                        | 插件发布时默认设置                 | 申请试用时对应天数         | 申请激活时对应天数（目前可额外赠送，最高30天） |
 
 
-## 如何激活？
+## ❓如何激活？
 
-<p>搜索微信公众号 <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a>（<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">点击查看二维码</a>）根据菜单 <span textstyle="" style="color: rgb(255, 76, 0)">GPVP</span>&nbsp;&gt;&nbsp;<span textstyle="" style="color: rgb(255, 76, 0)">激活链接</span> 进行操作（<span style="color: rgb(255, 76, 65);">在进行正常激活时可叠加插件发布的剩余试用天数！无需额外等待插件试用到期！</span>）</p>
+<p>菜单 <span style="color: rgb(255, 76, 65);" >“About License”</span> 可进行申请试用、正式授权 或 通过 <span style="color: rgb(255, 76, 65);" >“授权服务”</span>（<a href="https://license.wlhhd.cn?p=Gradle With Me(GPVP)" target="_blank">点击访问</a>）进行获取授权</p>
 
 <span style="color: red">注：</span>如有问题，您可直接在公众号发送消息进行留言
 
-除插件发布后直接试用外，也可免费申请试用！按照公众号指引步骤即可。
-
 <span style="color: red">您也可以禁用或卸载当前插件，使用Gradle With Me Pro(GPVP)版进行通过 JetBrains 官方激活，可享14天免费试用！</span>
 
-## 如何配置Nexus访问权限？
+## ❓如何配置Nexus访问权限？
 
 [IDEA插件Gradle With Me / Gradle With Me Pro如何配置Nexus访问权限？](docs/how-to-configure-nexus-access-permissions_zh.md)
 
-## 其他
+## ❓如何配置项目配置同步功能？
+
+[自从用了这个IDEA插件再也不用每次都手动切换JDK和Gradle JVM了](https://blog.wlhhd.cn/detail-23002xvf9ed6m0n4.html)
+
+
+## 📌 其他
 
 ### conf.properties配置文件
 
@@ -183,7 +186,7 @@ Tools > Gradle Project Version
 可通过系统默认语言，也可在conf.properties中进行指定要使用的语言
 
 
-## 联系我们
+## 💬 联系我们
 
 如果您有任何问题或建议，可以通过以下方式：
 

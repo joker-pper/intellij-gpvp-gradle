@@ -11,7 +11,7 @@
 </div>
 
 
-## 💡前言
+## 💡 前言
 
 <b>工欲善其事必先利其器！ 轻便快捷是初心，势必为节省您的大量时间和心力而前行！让更多的时间和价值留在更重要的地方！！！</b><br/><br/>
 <b>希望它能成为一款真正有价值的插件，避免大家花费更多的精力和心力在这些繁琐的流程中。当然这也需要您的支持，以便我们提供更好的服务和迭代，利他和利己不是可以共存的嘛~ 让我们一起走得更远！</b><br/>
@@ -30,7 +30,7 @@ QQ交流群: [点击链接加入群聊【Gradle With Me插件交流群】](https
 <br/>
 <hr/>
 
-## 🌟IDEA 插件Gradle With Me Pro(GPVP) 是什么？
+## 🌟 IDEA 插件Gradle With Me Pro(GPVP) 是什么？
 
 <p>Gradle Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version And supporting synchronization of SDK and Gradle build and other configurations.</p>
 
@@ -41,7 +41,7 @@ QQ交流群: [点击链接加入群聊【Gradle With Me插件交流群】](https
 <p>注：若您使用的是Maven，对应的IDEA 插件为 Maven With Me Pro(MPVP)。</p>
 
 
-## ✨核心功能
+## ✨ 核心功能
 
 ### 支持gradle项目版本快速升级/回退
 
@@ -74,17 +74,17 @@ QQ交流群: [点击链接加入群聊【Gradle With Me插件交流群】](https
 
 <span style="color: red">注：</span>如要了解更多，[请点击这里查看特性详请](../docs/FeaturesDetail.md)
 
-## 如何找到操作菜单？
+## ❓如何找到操作菜单？
 
 Tools > Gradle Project Version
 
 ![how-to-find-plugin-menu](../picture/how-to-find-plugin-menu.png)
 
-## 如何配置Nexus访问权限？
+## ❓如何配置Nexus访问权限？
 
 [IDEA插件Gradle With Me Pro如何配置Nexus访问权限？](../docs/how-to-configure-nexus-access-permissions_zh.md)
 
-## 其他
+## 📌 其他
 
 ### conf.properties配置文件
 
@@ -143,7 +143,7 @@ Tools > Gradle Project Version
 可通过系统默认语言，也可在conf.properties中进行指定要使用的语言
 
 
-## 联系我们
+## 💬 联系我们
 
 如果您有任何问题或建议，可以通过以下方式：
 
