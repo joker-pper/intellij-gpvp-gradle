@@ -112,7 +112,7 @@ Tools > Gradle Project Version
 
 ## ❓如何激活？
 
-<p>菜单 <span style="color: rgb(255, 76, 65);" >“About License”</span> 可进行申请试用、正式授权 或 通过 <span style="color: rgb(255, 76, 65);" >“授权服务”</span>（<a href="https://license.wlhhd.cn?p=Gradle With Me(GPVP)" target="_blank">点击访问</a>）进行获取授权</p>
+<p>插件所属菜单 <span style="color: rgb(255, 76, 65);" >“About License”</span> 可进行申请试用、正式授权 或 通过 <span style="color: rgb(255, 76, 65);" >“授权服务”</span>（<a href="https://license.wlhhd.cn?p=Gradle With Me(GPVP)" target="_blank">点击访问</a>）进行获取授权</p>
 
 <span style="color: red">注：</span>如有问题，您可直接在公众号发送消息进行留言
 
