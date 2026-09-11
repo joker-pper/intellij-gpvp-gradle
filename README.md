@@ -110,7 +110,7 @@ Tools > Gradle Project Version
 | 激活有效时间  | --                        | 插件发布时默认设置                 | 申请试用时对应天数         | 申请激活时对应天数（目前可额外赠送，最高30天） |
 
 
-## ❓如何激活？
+## ❓ 如何激活？
 
 <p>插件所属菜单 <span style="color: rgb(255, 76, 65);" >“About License”</span> 可进行申请试用、正式授权 或 通过 <span style="color: rgb(255, 76, 65);" >“授权服务”</span>（<a href="https://license.wlhhd.cn?p=Gradle With Me(GPVP)" target="_blank">点击访问</a>）进行获取授权</p>
 
@@ -118,7 +118,7 @@ Tools > Gradle Project Version
 
 <span style="color: red">您也可以禁用或卸载当前插件，使用Gradle With Me Pro(GPVP)版进行通过 JetBrains 官方激活，可享14天免费试用！</span>
 
-## ❓如何配置Nexus访问权限？
+## ❓ 如何配置Nexus访问权限？
 
 [IDEA插件Gradle With Me / Gradle With Me Pro如何配置Nexus访问权限？](docs/how-to-configure-nexus-access-permissions_zh.md)
 

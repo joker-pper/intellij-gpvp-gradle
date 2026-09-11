@@ -73,13 +73,13 @@ Other instructions: The '~' in JDK Home Path represents the user's home director
 
 <span style="color: red">Note:</span> To learn more, [please click here for detailed features](../docs/FeaturesDetail.md)
 
-## ❓How to find the operation menu?
+## ❓ How to find the operation menu?
 
 Tools > Gradle Project Version
 
 ![how-to-find-plugin-menu](../picture/how-to-find-plugin-menu.png)
 
-## ❓How to configure Nexus access permissions?
+## ❓ How to configure Nexus access permissions?
 
 [How to configure Nexus access permissions for IDEA plugin Gradle With Me Pro?](../docs/how-to-configure-nexus-access-permissions_en.md)
 

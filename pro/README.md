@@ -74,13 +74,13 @@ QQ交流群: [点击链接加入群聊【Gradle With Me插件交流群】](https
 
 <span style="color: red">注：</span>如要了解更多，[请点击这里查看特性详请](../docs/FeaturesDetail.md)
 
-## ❓如何找到操作菜单？
+## ❓ 如何找到操作菜单？
 
 Tools > Gradle Project Version
 
 ![how-to-find-plugin-menu](../picture/how-to-find-plugin-menu.png)
 
-## ❓如何配置Nexus访问权限？
+## ❓ 如何配置Nexus访问权限？
 
 [IDEA插件Gradle With Me Pro如何配置Nexus访问权限？](../docs/how-to-configure-nexus-access-permissions_zh.md)
 
