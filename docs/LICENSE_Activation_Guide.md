@@ -56,7 +56,7 @@ Tools > Gradle Project Version
 + 授权文件是基于 插件 + 序列号进行专属授权，一机一码，不可在其他机器使用。
 
 
-我们提供了 <span style="color: rgb(255, 104, 39); font-weight: bold;">插件内选择授权文件</span> 的方法进行激活。当然您也可以手动将解压后的KEY文件（如：MPVP-LICENSE.KEY或MPVP-LICENSE@XX.KEY）复制到用户目录下的mpvp文件夹下（若不存在mpvp文件夹，需要您进行手动创建）。
+我们提供了 <span style="color: rgb(255, 104, 39); font-weight: bold;">插件内选择授权文件</span> 的方法进行激活。当然您也可以手动将解压后的KEY文件（如：GPVP-LICENSE.KEY或GPVP-LICENSE@XX.KEY）复制到用户目录下的gpvp文件夹下（若不存在gpvp文件夹，需要您进行手动创建）。
 
 采用 **插件内选择授权文件** 的操作如下：
 

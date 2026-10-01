@@ -69,7 +69,7 @@ Notes:
 + The authorization file is exclusively authorized based on the plugin + Machine SerialNumbers, one machine one code, and cannot be used on other machines.
 
 
-We provide the <span style="color: rgb(255, 104, 39); font-weight: bold;">select the authorization file within the plugin</span> method for activation. Of course, you can also manually copy the extracted KEY file (e.g., MPVP-PRO-LICENSE.KEY or MPVP-PRO-LICENSE@XX.KEY) to the mpvp folder under the user directory (if the mpvp folder does not exist, you need to create it manually).
+We provide the <span style="color: rgb(255, 104, 39); font-weight: bold;">select the authorization file within the plugin</span> method for activation. Of course, you can also manually copy the extracted KEY file (e.g., GPVP-PRO-LICENSE.KEY or GPVP-PRO-LICENSE@XX.KEY) to the gpvp folder under the user directory (if the gpvp folder does not exist, you need to create it manually).
 
 The operation of **selecting the authorization file within the plugin** is as follows:
 
